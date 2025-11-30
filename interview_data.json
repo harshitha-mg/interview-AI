@@ -1,0 +1,2226 @@
+{
+  "interview_sessions": [
+    {
+      "interview_id": "default_user_20251128_191214",
+      "category": "technical",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "Explain the concept of object-oriented programming and its importance in software development.",
+        "What are the main differences between waterfall methodology and NoSQL?",
+        "How would you approach debugging a network latency problem?",
+        "Describe your experience with machine learning and a project where you used it.",
+        "What are the key considerations when designing a distributed system?",
+        "How do you ensure code quality and maintainability in your projects?"
+      ],
+      "responses": [
+        "Object-oriented programming (OOP) is a programming paradigm that organizes software design around objects, which are instances of classes that bundle data (attributes) and the functions (methods) that operate on that data",
+        "It's like comparing apples and car engines\u2014they serve fundamentally different purposes in the world of software development. Waterfall methodology is a project management approach, while NoSQL is a type of database technology.",
+        "Identify the Scope and Symptoms,Verify Basic Connectivity and Hardware,Isolate the Source of Latency,Analyze Potential Causes,Implement and Verify Solutions.",
+        "I don't know",
+        "Key considerations for designing a distributed system include scalability, fault tolerance, data consistency, and security",
+        "To ensure code quality and maintainability, developers use a combination of coding standards, code reviews, and automated testing. Adhering to standards improves consistency and readability, while peer reviews catch bugs and design flaws. Automated tests like unit tests and integration tests provide a safety net, catching regressions and ensuring functionality is not broken by new changes. Additionally, practices like refactoring, writing clear documentation, and following principles like DRY (Don't Repeat Yourself) are essential."
+      ],
+      "scores": [
+        {
+          "relevance_score": 2.0,
+          "completeness_score": 5.9,
+          "clarity_score": 3.0,
+          "technical_accuracy": 7.9,
+          "overall_score": 3.7,
+          "word_count": 31,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Response directly addresses the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Improve clarity and structure of response"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Response directly addresses the question. Areas to work on: Include more industry-specific terminology, Improve clarity and structure of response."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 6.3,
+          "clarity_score": 5.0,
+          "technical_accuracy": 9.0,
+          "overall_score": 6.1,
+          "word_count": 32,
+          "sentiment_compound": 0.36,
+          "strengths": [
+            "Response directly addresses the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question. Areas to work on: Include more industry-specific terminology."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 5.8,
+          "clarity_score": 3.0,
+          "technical_accuracy": 5.6,
+          "overall_score": 4.5,
+          "word_count": 18,
+          "sentiment_compound": 0.18,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Improve clarity and structure of response",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology, Improve clarity and structure of response, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 7.0,
+          "clarity_score": 9.0,
+          "technical_accuracy": 0.4,
+          "overall_score": 0.6,
+          "word_count": 3,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Focus more directly on answering the question",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Clear and well-structured communication. Areas to work on: Include more industry-specific terminology, Focus more directly on answering the question, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 3.0,
+          "completeness_score": 7.0,
+          "clarity_score": 3.0,
+          "technical_accuracy": 8.3,
+          "overall_score": 6.3,
+          "word_count": 15,
+          "sentiment_compound": 0.23,
+          "strengths": [
+            "Response directly addresses the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Improve clarity and structure of response",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question. Areas to work on: Include more industry-specific terminology, Improve clarity and structure of response, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 3.0,
+          "completeness_score": 5.8,
+          "clarity_score": 5.0,
+          "technical_accuracy": 5.7,
+          "overall_score": 5.8,
+          "word_count": 73,
+          "sentiment_compound": 0.96,
+          "strengths": [
+            "Comprehensive answer with adequate detail"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Comprehensive answer with adequate detail. Areas to work on: Include more industry-specific terminology."
+        }
+      ],
+      "start_time": "2025-11-28T19:12:14.497028",
+      "status": "completed",
+      "end_time": "2025-11-28T19:15:58.884821",
+      "final_result": {
+        "overall_score": 4.5,
+        "detailed_feedback": "Good foundation identified. Focus on developing specific examples and improving communication clarity.",
+        "areas_for_improvement": [
+          "Include more industry-specific terminology",
+          "Improve clarity and structure of response",
+          "Provide more detailed explanations"
+        ],
+        "strength_analysis": [
+          "Response directly addresses the question",
+          "Good attempt at answering the question",
+          "Clear and well-structured communication"
+        ],
+        "category_breakdown": {
+          "relevance": 1.5,
+          "completeness": 6.3,
+          "clarity": 4.7,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251128_191730",
+      "category": "behavioral",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "Tell me about a time when you faced a significant challenge and how you overcame it.",
+        "Describe a situation where you had to work with a difficult team member.",
+        "How do you prioritize tasks when working on multiple projects with tight deadlines?",
+        "Give an example of a time you made a mistake and what you learned from it.",
+        "Describe a project where you demonstrated leadership skills.",
+        "How do you handle receiving critical feedback from colleagues or managers?"
+      ],
+      "responses": [
+        "A database administrator left mid-project; my task was to prevent a critical delay. I hired a part-time contractor to mentor an internal junior employee on the specialized tasks. We finished the migration only three days late, simultaneously building internal expertise.",
+        "A colleague on my documentation project was highly skilled but frequently missed updates. I adapted by replacing team meetings with a mandatory, private 15-minute sync to discuss their progress. This adjustment improved collaboration significantly, and the project finished successfully ahead of schedule.",
+        "I prioritize tasks by first evaluating their business impact and urgency",
+        "In a prior role, I neglected to double-check a client's specific software version before updating a critical configuration file. This oversight caused an immediate system crash and a few hours of downtime. I learned the critical importance of a pre-deployment checklist and confirmed technical assumptions instead of relying on memory.",
+        "In my previous role, I led a team of developers and we successfully delivered a major project ahead of schedule.",
+        "My approach to sales involves building strong relationships with clients and understanding their specific needs."
+      ],
+      "scores": [
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 6.3,
+          "clarity_score": 7.0,
+          "technical_accuracy": 1.8,
+          "overall_score": 2.4,
+          "word_count": 40,
+          "sentiment_compound": -0.54,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Focus more directly on answering the question"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology, Focus more directly on answering the question."
+        },
+        {
+          "relevance_score": 4.0,
+          "completeness_score": 6.8,
+          "clarity_score": 5.0,
+          "technical_accuracy": 4.0,
+          "overall_score": 5.4,
+          "word_count": 42,
+          "sentiment_compound": 0.9,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Continue practicing interview responses"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Continue practicing interview responses."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 7.0,
+          "clarity_score": 7.0,
+          "technical_accuracy": 6.4,
+          "overall_score": 3.7,
+          "word_count": 11,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 5.7,
+          "clarity_score": 7.0,
+          "technical_accuracy": 1.2,
+          "overall_score": 2.4,
+          "word_count": 50,
+          "sentiment_compound": -0.8,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Focus more directly on answering the question"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology, Focus more directly on answering the question."
+        },
+        {
+          "relevance_score": 2.0,
+          "completeness_score": 6.3,
+          "clarity_score": 7.0,
+          "technical_accuracy": 6.0,
+          "overall_score": 6.1,
+          "word_count": 20,
+          "sentiment_compound": 0.49,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Good response. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 7.0,
+          "clarity_score": 5.0,
+          "technical_accuracy": 2.9,
+          "overall_score": 4.0,
+          "word_count": 15,
+          "sentiment_compound": 0.51,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Focus more directly on answering the question",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology, Focus more directly on answering the question, Provide more detailed explanations."
+        }
+      ],
+      "start_time": "2025-11-28T19:17:30.406964",
+      "status": "completed",
+      "end_time": "2025-11-28T19:21:32.540377",
+      "final_result": {
+        "overall_score": 4.0,
+        "detailed_feedback": "Good foundation identified. Focus on developing specific examples and improving communication clarity.",
+        "areas_for_improvement": [
+          "Include more industry-specific terminology",
+          "Focus more directly on answering the question",
+          "Provide more detailed explanations"
+        ],
+        "strength_analysis": [
+          "Good attempt at answering the question"
+        ],
+        "category_breakdown": {
+          "relevance": 1.2,
+          "completeness": 6.5,
+          "clarity": 6.3,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251128_192220",
+      "category": "sales",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "Explain the concept of test-driven development and its importance in software development.",
+        "What are the main differences between SQL and NoSQL?",
+        "How would you approach debugging a performance problem?",
+        "Describe your experience with containerization and a project where you used it.",
+        "What are the key considerations when designing a scalable web system?",
+        "How do you ensure code quality and maintainability in your projects?"
+      ],
+      "responses": [
+        "Test-Driven Development (TDD) is an iterative software development process where tests are written before the code they are meant to validate. It's often described as a programming discipline that tightens the feedback loop between coding, testing, and design.\n\nThe core principle of TDD is to write a failing test for a small piece of functionality, write the minimum amount of code to make that test pass, and then clean up the code.",
+        "SQL databases use a rigid, predefined schema where data must fit into structured tables.\n\nNoSQL databases use a flexible, dynamic schema that can handle various data formats (like documents or key-value pairs) without a fixed structure.",
+        "I start by quantifying the exact metric that is slow and isolating the bottleneck using monitoring tools (CPU, database, network). I then form a testable hypothesis (e.g., missing index) and validate the fix in a test environment. Finally, I document the root cause and implement permanent monitoring to prevent recurrence.",
+        "My experience with containerization primarily revolves around Docker and Kubernetes (K8s), focusing on improving development consistency, deployment speed, and application scalability.",
+        "Designing a scalable web system requires strategic planning across architecture, data, and operations. The key considerations focus on minimizing bottlenecks and distributing load efficiently.",
+        "I ensure quality through mandatory code reviews and a comprehensive automated testing suite (Unit, Integration). Linting and static analysis enforce consistent style, while continuous refactoring based on SOLID principles maintains long-term health and readability."
+      ],
+      "scores": [
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 5.4,
+          "clarity_score": 5.0,
+          "technical_accuracy": 7.8,
+          "overall_score": 5.8,
+          "word_count": 72,
+          "sentiment_compound": 0.23,
+          "strengths": [
+            "Response directly addresses the question",
+            "Comprehensive answer with adequate detail"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Response directly addresses the question, Comprehensive answer with adequate detail. Areas to work on: Include more industry-specific terminology."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 5.8,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.1,
+          "overall_score": 5.1,
+          "word_count": 36,
+          "sentiment_compound": 0.67,
+          "strengths": [
+            "Response directly addresses the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Response directly addresses the question. Areas to work on: Include more industry-specific terminology."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 5.7,
+          "clarity_score": 7.0,
+          "technical_accuracy": 5.7,
+          "overall_score": 5.6,
+          "word_count": 50,
+          "sentiment_compound": 0.1,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 6.7,
+          "clarity_score": 3.0,
+          "technical_accuracy": 6.0,
+          "overall_score": 4.8,
+          "word_count": 21,
+          "sentiment_compound": 0.42,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Improve clarity and structure of response"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology, Improve clarity and structure of response."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 6.7,
+          "clarity_score": 3.0,
+          "technical_accuracy": 8.2,
+          "overall_score": 5.3,
+          "word_count": 24,
+          "sentiment_compound": 0.4,
+          "strengths": [
+            "Response directly addresses the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Improve clarity and structure of response"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Response directly addresses the question. Areas to work on: Include more industry-specific terminology, Improve clarity and structure of response."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 6.6,
+          "clarity_score": 5.0,
+          "technical_accuracy": 5.8,
+          "overall_score": 4.6,
+          "word_count": 34,
+          "sentiment_compound": 0.74,
+          "strengths": [
+            "Good attempt at answering the question"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Good attempt at answering the question. Areas to work on: Include more industry-specific terminology."
+        }
+      ],
+      "start_time": "2025-11-28T19:22:20.821291",
+      "status": "completed",
+      "end_time": "2025-11-28T19:26:39.181496",
+      "final_result": {
+        "overall_score": 5.2,
+        "detailed_feedback": "Good foundation identified. Focus on developing specific examples and improving communication clarity.",
+        "areas_for_improvement": [
+          "Include more industry-specific terminology",
+          "Improve clarity and structure of response"
+        ],
+        "strength_analysis": [
+          "Response directly addresses the question",
+          "Good attempt at answering the question",
+          "Comprehensive answer with adequate detail"
+        ],
+        "category_breakdown": {
+          "relevance": 0.2,
+          "completeness": 6.1,
+          "clarity": 5.0,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251128_194038",
+      "category": "technical",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "Explain the concept of agile methodology and its importance in software development.",
+        "What are the main differences between monolithic architecture and non-relational databases?",
+        "How would you approach debugging a memory leak problem?",
+        "Describe your experience with big data technologies and a project where you used it.",
+        "What are the key considerations when designing a distributed system?",
+        "How do you ensure code quality and maintainability in your projects?"
+      ],
+      "responses": [
+        "Agile methodology is an iterative approach to software development focused on delivering value in small increments and responding to change. Its importance lies in flexibility, rapid adaptation to customer feedback, and minimizing the risk of building the wrong product.",
+        "Monolithic Architecture describes how the entire application is structured\u2014typically a single, tightly coupled codebase.\n\nNon-Relational Databases (NoSQL) describe how data is stored\u2014flexible schema, not using fixed tables, prioritizing scalability.\n\nA monolithic app can use a NoSQL database, and a distributed app (Microservices) can also use a NoSQL database.\n\nThe decision to go Monolithic vs. Microservices is about application deployment/scaling, while SQL vs. NoSQL is about data structure/integrity.\n\nThere is no direct \"difference\" as they address distinct problems in the software stack.",
+        "In my previous role, I led a team of developers and we successfully delivered a major project ahead of schedule.",
+        "My experience with Big Data technologies centers on building scalable data pipelines that handle high volumes, velocity, and variety of data to extract actionable insights.",
+        "Key considerations for designing a distributed system include scalability, fault tolerance, data consistency, and security. Other factors are performance (low latency), availability, concurrency, communication reliability, resource management, and transparency.",
+        "To ensure code quality and maintainability, developers use a combination of coding standards, code reviews, and automated testing. Adhering to standards improves consistency and readability, while peer reviews catch bugs and design flaws. Automated tests like unit tests and integration tests provide a safety net, catching regressions and ensuring functionality is not broken by new changes. Additionally, practices like refactoring, writing clear documentation"
+      ],
+      "scores": [
+        {
+          "relevance_score": 5.0,
+          "completeness_score": 5.2,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.4,
+          "overall_score": 7.0,
+          "word_count": 39,
+          "sentiment_compound": 0.23,
+          "strengths": [
+            "Response directly addresses the question",
+            "Clear and well-structured communication",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Minor refinements could make your answers even stronger"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question, Clear and well-structured communication, Provides specific examples and details, Confident and professional tone. Areas to work on: Minor refinements could make your answers even stronger."
+        },
+        {
+          "relevance_score": 8.5,
+          "completeness_score": 4.6,
+          "clarity_score": 5.0,
+          "technical_accuracy": 8.1,
+          "overall_score": 7.4,
+          "word_count": 81,
+          "sentiment_compound": -0.6,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Comprehensive and detailed answer"
+          ],
+          "improvement_areas": [
+            "Maintain a more positive and confident tone"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Response directly addresses the question, Comprehensive and detailed answer. Areas to work on: Maintain a more positive and confident tone."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 9.4,
+          "clarity_score": 7.0,
+          "technical_accuracy": 0.4,
+          "overall_score": 4.2,
+          "word_count": 20,
+          "sentiment_compound": 0.49,
+          "strengths": [
+            "Clear and well-structured communication",
+            "Provides specific examples and details",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Focus more directly on answering the question",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Clear and well-structured communication, Provides specific examples and details, Confident and professional tone. Areas to work on: Include more industry-specific terminology, Focus more directly on answering the question, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 0.0,
+          "completeness_score": 5.8,
+          "clarity_score": 7.0,
+          "technical_accuracy": 5.6,
+          "overall_score": 5.0,
+          "word_count": 25,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Clear and well-structured communication",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Response needs improvement. Strengths include: Clear and well-structured communication, Provides specific examples and details. Areas to work on: Include more industry-specific terminology, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 5.0,
+          "completeness_score": 5.8,
+          "clarity_score": 1.0,
+          "technical_accuracy": 8.9,
+          "overall_score": 6.1,
+          "word_count": 29,
+          "sentiment_compound": 0.23,
+          "strengths": [
+            "Response directly addresses the question",
+            "Provides specific examples and details",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Improve clarity and structure of response",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Improve clarity and structure of response, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 6.0,
+          "completeness_score": 5.0,
+          "clarity_score": 5.0,
+          "technical_accuracy": 5.7,
+          "overall_score": 6.8,
+          "word_count": 63,
+          "sentiment_compound": 0.95,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Provides specific examples and details",
+            "Adequate level of detail"
+          ],
+          "improvement_areas": [
+            "Minor refinements could make your answers even stronger"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Provides specific examples and details, Adequate level of detail, Confident and professional tone. Areas to work on: Minor refinements could make your answers even stronger."
+        }
+      ],
+      "start_time": "2025-11-28T19:40:38.596604",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 6.1,
+        "detailed_feedback": "Solid performance with good understanding of key concepts. With some refinement, you'll excel in interviews.",
+        "areas_for_improvement": [
+          "Provide more detailed explanations",
+          "Minor refinements could make your answers even stronger",
+          "Include more industry-specific terminology"
+        ],
+        "strength_analysis": [
+          "Provides specific examples and details",
+          "Response directly addresses the question",
+          "Clear and well-structured communication"
+        ],
+        "category_breakdown": {
+          "relevance": 4.1,
+          "completeness": 6.0,
+          "clarity": 5.3,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251129_131119",
+      "category": "sales",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "How do you approach building relationships with new potential clients?",
+        "Describe your process for managing a sales pipeline from lead to close.",
+        "What strategies do you use to handle customer objections during sales conversations?",
+        "How do you stay informed about industry trends and competitor activities?",
+        "Describe your most successful sales campaign and what made it effective.",
+        "What key metrics do you track to measure sales performance and why?"
+      ],
+      "responses": [
+        "I approach building new client relationships by focusing on understanding their unique needs and challenges first, then demonstrating immediate, credible value through tailored insights and solutions.",
+        "I manage the pipeline by systematically qualifying leads based on need and fit, then nurturing them with targeted communication through the various stages until negotiation and successful closure.",
+        "My strategy for handling customer objections centers around a 4-step, empathy-driven process:\n\nListen and Acknowledge: I practice active listening without interrupting, then validate their concern with empathy (e.g., \"I understand why that's a priority right now\"). This builds trust.\n\nUncover the Root Cause: I ask open-ended, probing questions to get beyond the surface-level objection (like price) and understand the true underlying issue (like perceived value or risk).\n\nRespond with Value & Proof: I address the root cause directly by re-articulating the value and using social proof (case studies, data, testimonials) to demonstrate how the solution mitigates their specific risk or concern.\n\nConfirm and Isolate: Finally, I confirm that my response has fully satisfied their objection and ask, \"If we can successfully address this, are you ready to move forward?\" to ensure I've overcome the real barrier.",
+        "I approach this using a three-pronged system:\n\nTrend Monitoring: I consume industry analyst reports, trade publications, and professional webinars to track major shifts in technology and regulation.\n\nCompetitor Intelligence: I use digital tools and social listening to monitor their product releases, pricing, marketing campaigns, and customer feedback.\n\nSynthesis: I regularly synthesize this external data using frameworks like SWOT to refine our value proposition, anticipate objections, and maintain a competitive edge.",
+        "My most successful campaign focused on solving a single, critical industry challenge: data compliance in a newly regulated sector.\n\nTargeting Precision: We segmented the market to target only companies facing the immediate compliance deadline, ensuring every conversation was relevant and urgent.\n\nContent Focus: The campaign was anchored by a detailed, authoritative white paper (not a sales pitch) that identified the risks and offered a clear path to compliance, positioning us as the expert partner.\n\nCross-Channel Synergy: We used highly personalized email sequences, targeted LinkedIn ads featuring key findings from the paper, and dedicated webinar follow-ups, ensuring consistent messaging across all touchpoints.\n\nIts effectiveness came from prioritizing education and urgency over pitching, leading to a 40% increase in qualified meetings and a 15% higher close rate compared to our standard product campaigns.",
+        "I track a balanced set of metrics across three categories to measure sales performance, ensuring I evaluate both efficiency and effectiveness.\n\n1. \u2699\ufe0f Efficiency and Activity Metrics\nThese measure the effort and volume required to drive results.\n\nMetric: Number of Qualified Meetings/Demos Held:\n\nWhy: This is a leading indicator. It directly measures the team's ability to engage prospects and fill the top of the funnel.\n\nMetric: Average Lead Response Time:\n\nWhy: Speed is critical in sales; a faster response time correlates directly with higher conversion rates.\n\n2. \ud83d\udcc8 Pipeline Health Metrics\nThese measure the quality and velocity of deals moving through the funnel.\n\nMetric: Conversion Rate (Stage-to-Stage):\n\nWhy: This pinpoints where deals are stalling, helping diagnose issues with qualification, messaging, or pricing at specific stages.\n\nMetric: Sales Cycle Length:\n\nWhy: A shorter cycle increases forecast predictability and allows for higher volume; tracking it helps identify bottlenecks that slow down the process.\n\n3. \ud83d\udcb0 Results and Revenue Metrics\nThese are the ultimate lagging indicators of success.\n\nMetric: Average Deal Size (or Annual Contract Value - ACV):\n\nWhy: Measures the value generated per closed deal and helps assess success in upselling/cross-selling or targeting high-value accounts.\n\nMetric: Customer Lifetime Value (CLV) / Customer Acquisition Cost (CAC) Ratio:\n\nWhy: This is the most holistic profitability metric, ensuring that sales efforts are cost-effective and focus on acquiring truly valuable, long-term clients."
+      ],
+      "scores": [
+        {
+          "relevance_score": 7.5,
+          "completeness_score": 5.8,
+          "clarity_score": 5.0,
+          "technical_accuracy": 8.0,
+          "overall_score": 7.6,
+          "word_count": 26,
+          "sentiment_compound": 0.53,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 2.5,
+          "completeness_score": 5.6,
+          "clarity_score": 5.0,
+          "technical_accuracy": 7.4,
+          "overall_score": 6.1,
+          "word_count": 28,
+          "sentiment_compound": 0.85,
+          "strengths": [
+            "Response directly addresses the question",
+            "Provides specific examples and details",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Include more industry-specific terminology, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 8.2,
+          "completeness_score": 8.9,
+          "clarity_score": 7.0,
+          "technical_accuracy": 6.5,
+          "overall_score": 10.0,
+          "word_count": 136,
+          "sentiment_compound": 0.97,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 8.5,
+          "completeness_score": 5.0,
+          "clarity_score": 5.0,
+          "technical_accuracy": 7.5,
+          "overall_score": 8.1,
+          "word_count": 70,
+          "sentiment_compound": 0.83,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Adequate level of detail"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Adequate level of detail, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 8.2,
+          "completeness_score": 4.9,
+          "clarity_score": 5.0,
+          "technical_accuracy": 5.4,
+          "overall_score": 7.7,
+          "word_count": 131,
+          "sentiment_compound": 0.95,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Comprehensive and detailed answer",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Minor refinements could make your answers even stronger"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Minor refinements could make your answers even stronger."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 4.4,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.0,
+          "overall_score": 9.5,
+          "word_count": 226,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        }
+      ],
+      "start_time": "2025-11-29T13:11:19.305306",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 8.2,
+        "detailed_feedback": "Outstanding performance! You demonstrated excellent communication skills and strong relevant knowledge.",
+        "areas_for_improvement": [
+          "Continue with this excellent approach",
+          "Provide more detailed explanations",
+          "Include more industry-specific terminology"
+        ],
+        "strength_analysis": [
+          "Good use of relevant terminology",
+          "Response directly addresses the question",
+          "Provides specific examples and details"
+        ],
+        "category_breakdown": {
+          "relevance": 7.5,
+          "completeness": 5.8,
+          "clarity": 5.7,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251129_131412",
+      "category": "technical",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "Explain the concept of microservices architecture and its importance in software development.",
+        "What are the main differences between relational databases and agile methodology?",
+        "How would you approach debugging a network latency problem?",
+        "Describe your experience with machine learning and a project where you used it.",
+        "What are the key considerations when designing a high-availability system?",
+        "How do you ensure code quality and maintainability in your projects?"
+      ],
+      "responses": [
+        "The microservices architecture is a style where a single application is structured as a collection of small, independent services, each running its own process and communicating via lightweight APIs. Its importance lies in enabling faster, independent deployment, enhanced scalability, and technological diversity, reducing the risk associated with monolithic systems.",
+        "This is a comparison of two fundamentally different concepts in software development: a data structure model (Relational Database) and a project management philosophy (Agile Methodology). They are not alternatives, but rather represent different layers of a software system.\n\nThe main difference is their purpose: A Relational Database defines how data is structured and stored, while Agile Methodology defines how the software is built and managed.\n\nA relational database is a data storage model that organizes data into tables (relations) with predefined columns and rows.\n\nAgile is an iterative and incremental approach to software development and project management.",
+        "My approach to debugging a network latency problem is a systematic, top-down process that moves from the user's perception down to the physical layer, isolating the bottleneck at each stage.\n\n1. \ud83d\udd0d Define and Scope the Problem (Client Side)\nThe first step is understanding the scope and perception of the latency.\n\nIsolate the Impact: Determine if the problem is global (affecting all users/services) or localized (affecting a specific application, region, or single user).\n\nEstablish a Baseline: Measure the current latency using client-side tools (e.g., browser developer tools, ping, traceroute) to establish the magnitude of the delay.\n\nTest the Local Network: Check the client's local network health (Wi-Fi signal, local router speed) to rule out the endpoint as the source.\n\n2. \ud83c\udf10 Initial Network Path Diagnostics\nNext, I use standard tools to trace the path and identify where the delay is introduced.\n\nPing Test: Use ping to measure the Round Trip Time (RTT) to the target server or a known reliable gateway. A high or inconsistent RTT suggests packet loss or congestion.\n\nTraceroute / Tracert: Use traceroute (Linux/macOS) or tracert (Windows) to map every hop between the client and the server. I look for the following:\n\nHigh RTT Spikes: A significant, sudden jump in RTT at a specific hop often points to the congested or overloaded router/gateway causing the issue.\n\nTimeouts (* * *): Consistent timeouts at a hop suggest a firewall/ACL drop or severe congestion.\n\n3. \ud83d\udda5\ufe0f Server and Application Layer Check\nIf traceroute shows the delay is happening close to the destination, the problem may be on the server or in the application itself, not the core network.\n\nServer Load: Check the server's CPU, memory, and disk I/O usage. A high load on a web server or database server can cause application-level delays that look like network latency.\n\nApplication Logs: Review application and web server logs (e.g., Apache, Nginx) to identify slow database queries or inefficient application code that extends the time to generate a response.\n\nDNS Resolution: Test the DNS resolution time. Slow DNS lookups can be perceived as latency.\n\n4. \ud83d\udd17 Deep Dive: Network Infrastructure\nIf the evidence points to a specific internal network component (a router, switch, or firewall) as the bottleneck.\n\nInterface Statistics: Check the physical and logical interface statistics on the suspected network devices for high utilization (above 70-80%), input/output errors, discards, or dropped packets.\n\nFirewall/ACL Inspection: Verify that security policies are not inadvertently inspecting or blocking traffic in a way that introduces significant delay.\n\nQoS (Quality of Service): Ensure that critical application traffic is correctly prioritized and not being throttled by QoS policies.",
+        "I have hands-on experience in the end-to-end Machine Learning pipeline, covering data preprocessing, feature engineering, model selection, training, and deployment using Python (Scikit-learn, TensorFlow/PyTorch).\n\nMy most successful project was building a Customer Churn Prediction model for a telecom company using a Random Forest Classifier. We processed customer usage and service ticket data, engineered features like \"average monthly call time variance,\" and trained the model to identify high-risk customers with 88% accuracy. This allowed the business to proactively intervene with targeted retention offers, significantly reducing churn rates.",
+        "A high-availability (HA) system design must prioritize redundancy, fault detection, and fast failover to minimize downtime.\n\nEliminate Single Points of Failure (SPOFs): Ensure every critical component (hardware, network, power) has at least one active or passive backup.\n\nImplement Data Replication: Use synchronous or asynchronous replication across multiple zones/regions to maintain data consistency and prevent data loss during failures.\n\nAutomate Failover and Recovery: Design systems to automatically detect failures and switch traffic to a healthy component/node without manual intervention.\n\nMonitor Health and Performance: Implement robust monitoring and logging to detect degradation early and predict potential failures (proactive maintenance).\n\nUse Load Balancing: Distribute traffic across redundant resources to prevent overloading and ensure continuous service delivery.\n\nDesign for Graceful Degradation: Ensure non-critical functions can be temporarily disabled during peak stress to maintain core service availability.\n\nConduct Regular Chaos Testing: Intentionally introduce failures to test the failover mechanisms and validate recovery procedures.\n\nDefine Clear Service Level Objectives (SLOs): Set specific, measurable targets for uptime and recovery time (RTO/RPO) to guide the design.",
+        "I ensure code quality and maintainability through a multi-faceted process focusing on prevention, review, and standardization.\n\nCode Review: Mandate peer code reviews (e.g., using GitHub/GitLab pull requests) before merging any branch to catch errors and enforce best practices early.\n\nAutomated Testing: Implement comprehensive unit, integration, and end-to-end tests to verify functionality and prevent regressions.\n\nStatic Analysis: Utilize static code analysis tools (linters) to enforce style guides, identify potential bugs, and maintain consistency.\n\nDefined Standards: Adhere strictly to coding standards and style guides (e.g., PEP 8 for Python) across the entire team and project.\n\nRefactoring: Regularly allocate time for refactoring complex or messy code segments to improve clarity and reduce technical debt.\n\nClear Documentation: Maintain up-to-date and clear documentation for APIs, complex logic, and onboarding new developers.\n\nModular Design: Employ modular and decoupled design principles (like Microservices or clean architecture) to isolate changes and ease maintenance.\n\nContinuous Integration (CI): Integrate testing and static analysis into the CI pipeline to automatically block merging of low-quality or failing code."
+      ],
+      "scores": [
+        {
+          "relevance_score": 6.2,
+          "completeness_score": 5.4,
+          "clarity_score": 5.0,
+          "technical_accuracy": 8.4,
+          "overall_score": 6.6,
+          "word_count": 49,
+          "sentiment_compound": -0.34,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Maintain a more positive and confident tone"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Response directly addresses the question, Provides specific examples and details, Adequate level of detail. Areas to work on: Maintain a more positive and confident tone."
+        },
+        {
+          "relevance_score": 7.2,
+          "completeness_score": 8.3,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.7,
+          "overall_score": 8.9,
+          "word_count": 97,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Provides specific examples and details, Comprehensive and detailed answer. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 3.8,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.2,
+          "overall_score": 8.5,
+          "word_count": 430,
+          "sentiment_compound": -0.97,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Consider being more concise",
+            "Maintain a more positive and confident tone"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Comprehensive and detailed answer. Areas to work on: Consider being more concise, Maintain a more positive and confident tone."
+        },
+        {
+          "relevance_score": 3.5,
+          "completeness_score": 5.2,
+          "clarity_score": 5.0,
+          "technical_accuracy": 4.7,
+          "overall_score": 6.4,
+          "word_count": 86,
+          "sentiment_compound": 0.76,
+          "strengths": [
+            "Provides specific examples and details",
+            "Comprehensive and detailed answer",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Minor refinements could make your answers even stronger"
+          ],
+          "feedback": "Good response. Strengths include: Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Minor refinements could make your answers even stronger."
+        },
+        {
+          "relevance_score": 9.5,
+          "completeness_score": 4.7,
+          "clarity_score": 5.0,
+          "technical_accuracy": 6.9,
+          "overall_score": 7.7,
+          "word_count": 168,
+          "sentiment_compound": -0.9,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Comprehensive and detailed answer"
+          ],
+          "improvement_areas": [
+            "Maintain a more positive and confident tone"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Response directly addresses the question, Comprehensive and detailed answer. Areas to work on: Maintain a more positive and confident tone."
+        },
+        {
+          "relevance_score": 9.5,
+          "completeness_score": 4.8,
+          "clarity_score": 5.0,
+          "technical_accuracy": 5.8,
+          "overall_score": 8.7,
+          "word_count": 166,
+          "sentiment_compound": 0.86,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Comprehensive and detailed answer",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        }
+      ],
+      "start_time": "2025-11-29T13:14:12.899394",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 7.8,
+        "detailed_feedback": "Solid performance with good understanding of key concepts. With some refinement, you'll excel in interviews.",
+        "areas_for_improvement": [
+          "Maintain a more positive and confident tone",
+          "Continue with this excellent approach",
+          "Consider being more concise"
+        ],
+        "strength_analysis": [
+          "Good use of relevant terminology",
+          "Response directly addresses the question",
+          "Comprehensive and detailed answer"
+        ],
+        "category_breakdown": {
+          "relevance": 7.6,
+          "completeness": 5.4,
+          "clarity": 5.7,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251129_132057",
+      "category": "sales",
+      "user_id": "default_user",
+      "current_question": 6,
+      "questions": [
+        "How do you approach building relationships with new potential clients?",
+        "Describe your process for managing a sales pipeline from lead to close.",
+        "What strategies do you use to handle customer objections during sales conversations?",
+        "How do you stay informed about industry trends and competitor activities?",
+        "Describe your most successful sales campaign and what made it effective.",
+        "What key metrics do you track to measure sales performance and why?"
+      ],
+      "responses": [
+        "I approach building new client relationships by focusing on understanding their unique needs and challenges first, then demonstrating immediate, credible value through tailored insights and solutions.",
+        "I manage the pipeline by systematically qualifying leads based on need and fit, then nurturing them with targeted communication through the various stages until negotiation and successful closure.",
+        "My strategy for handling customer objections centers around a 4-step, empathy-driven process:\n\nListen and Acknowledge: I practice active listening without interrupting, then validate their concern with empathy (e.g., \"I understand why that's a priority right now\"). This builds trust.\n\nUncover the Root Cause: I ask open-ended, probing questions to get beyond the surface-level objection (like price) and understand the true underlying issue (like perceived value or risk).\n\nRespond with Value & Proof: I address the root cause directly by re-articulating the value and using social proof (case studies, data, testimonials) to demonstrate how the solution mitigates their specific risk or concern.\n\nConfirm and Isolate: Finally, I confirm that my response has fully satisfied their objection and ask, \"If we can successfully address this, are you ready to move forward?\" to ensure I've overcome the real barrier.",
+        "I approach this using a three-pronged system:\n\nTrend Monitoring: I consume industry analyst reports, trade publications, and professional webinars to track major shifts in technology and regulation.\n\nCompetitor Intelligence: I use digital tools and social listening to monitor their product releases, pricing, marketing campaigns, and customer feedback.\n\nSynthesis: I regularly synthesize this external data using frameworks like SWOT to refine our value proposition, anticipate objections, and maintain a competitive edge.",
+        "My most successful campaign focused on solving a single, critical industry challenge: data compliance in a newly regulated sector.\n\nTargeting Precision: We segmented the market to target only companies facing the immediate compliance deadline, ensuring every conversation was relevant and urgent.\n\nContent Focus: The campaign was anchored by a detailed, authoritative white paper (not a sales pitch) that identified the risks and offered a clear path to compliance, positioning us as the expert partner.\n\nCross-Channel Synergy: We used highly personalized email sequences, targeted LinkedIn ads featuring key findings from the paper, and dedicated webinar follow-ups, ensuring consistent messaging across all touchpoints.",
+        "I track a balanced set of metrics across three categories to measure sales performance, ensuring I evaluate both efficiency and effectiveness.\n\n1. \u2699\ufe0f Efficiency and Activity Metrics\nThese measure the effort and volume required to drive results.\n\nMetric: Number of Qualified Meetings/Demos Held:\n\nWhy: This is a leading indicator. It directly measures the team's ability to engage prospects and fill the top of the funnel.\n\nMetric: Average Lead Response Time:\n\nWhy: Speed is critical in sales; a faster response time correlates directly with higher conversion rates.\n\n2. \ud83d\udcc8 Pipeline Health Metrics\nThese measure the quality and velocity of deals moving through the funnel.\n\nMetric: Conversion Rate (Stage-to-Stage):\n\nWhy: This pinpoints where deals are stalling, helping diagnose issues with qualification, messaging, or pricing at specific stages.\n\nMetric: Sales Cycle Length:\n\nWhy: A shorter cycle increases forecast predictability and allows for higher volume; tracking it helps identify bottlenecks that slow down the process.\n\n3. \ud83d\udcb0 Results and Revenue Metrics\nThese are the ultimate lagging indicators of success.\n\nMetric: Average Deal Size (or Annual Contract Value - ACV):\n\nWhy: Measures the value generated per closed deal and helps assess success in upselling/cross-selling or targeting high-value accounts.\n\nMetric: Customer Lifetime Value (CLV) / Customer Acquisition Cost (CAC) Ratio:\n\nWhy: This is the most holistic profitability metric, ensuring that sales efforts are cost-effective and focus on acquiring truly valuable, long-term clients."
+      ],
+      "scores": [
+        {
+          "relevance_score": 7.5,
+          "completeness_score": 5.8,
+          "clarity_score": 5.0,
+          "technical_accuracy": 8.0,
+          "overall_score": 7.6,
+          "word_count": 26,
+          "sentiment_compound": 0.53,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 2.5,
+          "completeness_score": 5.6,
+          "clarity_score": 5.0,
+          "technical_accuracy": 7.4,
+          "overall_score": 6.1,
+          "word_count": 28,
+          "sentiment_compound": 0.85,
+          "strengths": [
+            "Response directly addresses the question",
+            "Provides specific examples and details",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Include more industry-specific terminology, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 8.2,
+          "completeness_score": 8.9,
+          "clarity_score": 7.0,
+          "technical_accuracy": 6.5,
+          "overall_score": 10.0,
+          "word_count": 136,
+          "sentiment_compound": 0.97,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 8.5,
+          "completeness_score": 5.0,
+          "clarity_score": 5.0,
+          "technical_accuracy": 7.5,
+          "overall_score": 8.1,
+          "word_count": 70,
+          "sentiment_compound": 0.83,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Adequate level of detail"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Adequate level of detail, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 7.0,
+          "completeness_score": 5.0,
+          "clarity_score": 5.0,
+          "technical_accuracy": 4.5,
+          "overall_score": 7.1,
+          "word_count": 101,
+          "sentiment_compound": 0.94,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Provides specific examples and details",
+            "Comprehensive and detailed answer"
+          ],
+          "improvement_areas": [
+            "Minor refinements could make your answers even stronger"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Minor refinements could make your answers even stronger."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 4.4,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.0,
+          "overall_score": 9.5,
+          "word_count": 226,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        }
+      ],
+      "start_time": "2025-11-29T13:20:57.396128",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 8.1,
+        "detailed_feedback": "Outstanding performance! You demonstrated excellent communication skills and strong relevant knowledge.",
+        "areas_for_improvement": [
+          "Continue with this excellent approach",
+          "Provide more detailed explanations",
+          "Include more industry-specific terminology"
+        ],
+        "strength_analysis": [
+          "Good use of relevant terminology",
+          "Response directly addresses the question",
+          "Provides specific examples and details"
+        ],
+        "category_breakdown": {
+          "relevance": 7.3,
+          "completeness": 5.8,
+          "clarity": 5.7,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251129_141207",
+      "category": "sales",
+      "user_id": "default_user",
+      "current_question": 8,
+      "questions": [
+        "How do you approach building relationships with new potential clients?",
+        "Describe your process for managing a sales pipeline from lead to close.",
+        "What strategies do you use to handle customer objections during sales conversations?",
+        "How do you stay informed about industry trends and competitor activities?",
+        "Describe your most successful sales campaign and what made it effective.",
+        "What key metrics do you track to measure sales performance and why?",
+        "What strategies do you use to identify new business opportunities?",
+        "What strategies do you use to identify new business opportunities?"
+      ],
+      "responses": [
+        "I approach building new client relationships by focusing on understanding their unique needs and challenges first, then demonstrating immediate, credible value through tailored insights and solutions.",
+        "I manage the pipeline by systematically qualifying leads based on need and fit, then nurturing them with targeted communication through the various stages until negotiation and successful closure.",
+        "My strategy for handling customer objections centers around a 4-step, empathy-driven process:\n\nListen and Acknowledge: I practice active listening without interrupting, then validate their concern with empathy (e.g., \"I understand why that's a priority right now\"). This builds trust.\n\nUncover the Root Cause: I ask open-ended, probing questions to get beyond the surface-level objection (like price) and understand the true underlying issue (like perceived value or risk).\n\nRespond with Value & Proof: I address the root cause directly by re-articulating the value and using social proof (case studies, data, testimonials) to demonstrate how the solution mitigates their specific risk or concern.\n\nConfirm and Isolate: Finally, I confirm that my response has fully satisfied their objection and ask, \"If we can successfully address this, are you ready to move forward?\" to ensure I've overcome the real barrier.",
+        "Industry Trend Monitoring\nThis focuses on big-picture, future-looking shifts in the market, customer behavior, and technology.\n\nPrimary Sources: I regularly read trade publications, industry analyst reports (e.g., Gartner, Forrester), and respected news sites to track key technological and regulatory changes.\n\nNetworking & Events: I attend industry conferences, webinars, and join professional online forums (like LinkedIn groups) to gain firsthand insights and perspectives from thought leaders and peers.\n\nData Signals: I use tools like Google Trends and social listening to spot emerging keywords, shifting customer sentiments, and new pain points before they become mainstream.\n\n2. \ud83d\udee1\ufe0f Competitor Intelligence Gathering\nThis is a focused, tactical analysis of the strategies and moves of key competitors.\n\nDigital Footprint Analysis: I use SEO and competitive analysis tools (e.g., SEMrush, Similarweb) to monitor their website traffic, top-ranking content, and paid advertising strategies. This reveals where they are investing.\n\nProduct & Marketing Tracking: I subscribe to competitor newsletters, set up Google Alerts for their names, and frequently check their product pages, social media, and press releases for new features, pricing changes, or partnership announcements.\n\nCustomer Feedback: I monitor public review sites and social media mentions to understand the voice of their customers\u2014what they love, and more importantly, what they complain about.\n\n3. \ud83e\udde0 Internalizing and Application\nThe final step is translating raw data into actionable intelligence for my team.\n\nI conduct regular SWOT and Porter's Five Forces analyses on key competitors and the overall industry landscape.\n\nI use these insights to refine our value proposition, adjust our sales messaging, and anticipate objections, ensuring we always position our solution as the superior alternative to the emerging market standard.",
+        "My most successful campaign focused on solving a single, critical industry challenge: data compliance in a newly regulated sector.\n\nTargeting Precision: We segmented the market to target only companies facing the immediate compliance deadline, ensuring every conversation was relevant and urgent.\n\nContent Focus: The campaign was anchored by a detailed, authoritative white paper (not a sales pitch) that identified the risks and offered a clear path to compliance, positioning us as the expert partner.\n\nCross-Channel Synergy: We used highly personalized email sequences, targeted LinkedIn ads featuring key findings from the paper, and dedicated webinar follow-ups, ensuring consistent messaging across all touchpoints.\n\nIts effectiveness came from prioritizing education and urgency over pitching, leading to a 40% increase in qualified meetings and a 15% higher close rate compared to our standard product campaigns.",
+        "I track a balanced set of metrics across three categories to measure sales performance, ensuring I evaluate both efficiency and effectiveness.\n\n1. \u2699\ufe0f Efficiency and Activity Metrics\nThese measure the effort and volume required to drive results.\n\nMetric: Number of Qualified Meetings/Demos Held:\n\nWhy: This is a leading indicator. It directly measures the team's ability to engage prospects and fill the top of the funnel.\n\nMetric: Average Lead Response Time:\n\nWhy: Speed is critical in sales; a faster response time correlates directly with higher conversion rates.\n\n2. \ud83d\udcc8 Pipeline Health Metrics\nThese measure the quality and velocity of deals moving through the funnel.\n\nMetric: Conversion Rate (Stage-to-Stage):\n\nWhy: This pinpoints where deals are stalling, helping diagnose issues with qualification, messaging, or pricing at specific stages.\n\nMetric: Sales Cycle Length:\n\nWhy: A shorter cycle increases forecast predictability and allows for higher volume; tracking it helps identify bottlenecks that slow down the process.\n\n3. \ud83d\udcb0 Results and Revenue Metrics\nThese are the ultimate lagging indicators of success.\n\nMetric: Average Deal Size (or Annual Contract Value - ACV):\n\nWhy: Measures the value generated per closed deal and helps assess success in upselling/cross-selling or targeting high-value accounts.\n\nMetric: Customer Lifetime Value (CLV) / Customer Acquisition Cost (CAC) Ratio:\n\nWhy: This is the most holistic profitability metric, ensuring that sales efforts are cost-effective and focus on acquiring truly valuable, long-term clients.",
+        "My strategy for identifying new business opportunities is a systematic process focused on finding unmet customer needs and market gaps that align with our core strengths.\n\n1. \ud83d\udc42 Voice of the Customer (VOC) Analysis\nThis is the most critical step, as true opportunities solve real pain points.\n\nDeep Customer Interviews: Go beyond satisfaction surveys and conduct open-ended interviews to understand the customer's \"Jobs to Be Done\" and the friction points in their current process.\n\nSocial & Review Listening: Monitor customer reviews (especially negative ones), forums, and social media sentiment for both our product and competitors. Recurring complaints about features or services often highlight immediate market gaps.\n\nSales/Support Data: Analyze support tickets, feature requests, and lost-deal reasons in the CRM. This internal data reveals specific areas of pain that are worth prioritizing.\n\n2. \ud83d\udcca Market & Environmental Scanning\nI use structured frameworks to analyze the external landscape.\n\nSWOT Analysis: Systematically evaluate our internal Strengths and Weaknesses against external Opportunities and Threats. This helps us find opportunities we are uniquely positioned to pursue (e.g., leveraging a niche strength to address an emerging market opportunity).\n\nPESTLE Analysis: Monitor Political, Economic, Social, Technological, Legal, and Environmental trends. Regulatory changes or new technologies often create entirely new markets (e.g., a new compliance law opens a service opportunity).\n\nMicro Niche Identification: Look for underserved subsets of a larger market. For instance, instead of targeting \"all small businesses,\" focus on \"solo-preneurs in the graphic design field.\"\n\n3. \ud83d\udca1 Collaborative Innovation & Validation\nOnce opportunities are identified, they must be tested and refined.\n\nInternal Brainstorming: Conduct cross-functional innovation sessions (sales, product, engineering) to generate creative solutions for the identified gaps.\n\nCompetitor Feature Gaps: Map out competitor offerings and pricing structures to find features or service levels they intentionally overlook (e.g., high-end services without a mid-tier option).\n\nConcept Validation: Before significant investment, quickly validate the opportunity using A/B testing, landing page tests, or rapid prototyping to gauge genuine market demand.",
+        "My strategy for identifying new business opportunities is a systematic process focused on finding unmet customer needs and market gaps that align with our core strengths.\n\n1. \ud83d\udc42 Voice of the Customer (VOC) Analysis\nThis is the most critical step, as true opportunities solve real pain points.\n\nDeep Customer Interviews: Go beyond satisfaction surveys and conduct open-ended interviews to understand the customer's \"Jobs to Be Done\" and the friction points in their current process.\n\nSocial & Review Listening: Monitor customer reviews (especially negative ones), forums, and social media sentiment for both our product and competitors. Recurring complaints about features or services often highlight immediate market gaps.\n\nSales/Support Data: Analyze support tickets, feature requests, and lost-deal reasons in the CRM. This internal data reveals specific areas of pain that are worth prioritizing.\n\n2. \ud83d\udcca Market & Environmental Scanning\nI use structured frameworks to analyze the external landscape.\n\nSWOT Analysis: Systematically evaluate our internal Strengths and Weaknesses against external Opportunities and Treats. This helps us find opportunities we are uniquely positioned to pursue (e.g., leveraging a niche strength to address an emerging market opportunity).\n\nPESTLE Analysis: Monitor Political, Economic, Social, Technological, Legal, and Environmental trends. Regulatory changes or new technologies often create entirely new markets (e.g., a new compliance law opens a service opportunity).\n\nMicro Niche Identification: Look for underserved subsets of a larger market. For instance, instead of targeting \"all small businesses,\" focus on \"solo-preneurs in the graphic design field.\"\n\n3. \ud83d\udca1 Collaborative Innovation & Validation\nOnce opportunities are identified, they must be tested and refined.\n\nInternal Brainstorming: Conduct cross-functional innovation sessions (sales, product, engineering) to generate creative solutions for the identified gaps.\n\nCompetitor Feature Gaps: Map out competitor offerings and pricing structures to find features or service levels they intentionally overlook (e.g., high-end services without a mid-tier option).\n\nConcept Validation: Before significant investment, quickly validate the opportunity using A/B testing, landing page tests, or rapid prototyping to gauge genuine market demand."
+      ],
+      "scores": [
+        {
+          "relevance_score": 7.5,
+          "completeness_score": 5.8,
+          "clarity_score": 5.0,
+          "technical_accuracy": 8.0,
+          "overall_score": 7.6,
+          "word_count": 26,
+          "sentiment_compound": 0.53,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 2.5,
+          "completeness_score": 5.6,
+          "clarity_score": 5.0,
+          "technical_accuracy": 7.4,
+          "overall_score": 6.1,
+          "word_count": 28,
+          "sentiment_compound": 0.85,
+          "strengths": [
+            "Response directly addresses the question",
+            "Provides specific examples and details",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Include more industry-specific terminology",
+            "Provide more detailed explanations"
+          ],
+          "feedback": "Good response. Strengths include: Response directly addresses the question, Provides specific examples and details, Confident and professional tone. Areas to work on: Include more industry-specific terminology, Provide more detailed explanations."
+        },
+        {
+          "relevance_score": 8.2,
+          "completeness_score": 8.9,
+          "clarity_score": 7.0,
+          "technical_accuracy": 6.5,
+          "overall_score": 10.0,
+          "word_count": 136,
+          "sentiment_compound": 0.97,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 4.4,
+          "clarity_score": 5.0,
+          "technical_accuracy": 6.8,
+          "overall_score": 9.1,
+          "word_count": 270,
+          "sentiment_compound": 0.98,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Comprehensive and detailed answer"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 8.2,
+          "completeness_score": 4.9,
+          "clarity_score": 5.0,
+          "technical_accuracy": 5.4,
+          "overall_score": 7.7,
+          "word_count": 131,
+          "sentiment_compound": 0.95,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Comprehensive and detailed answer",
+            "Confident and professional tone"
+          ],
+          "improvement_areas": [
+            "Minor refinements could make your answers even stronger"
+          ],
+          "feedback": "Good response. Strengths include: Good use of relevant terminology, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Minor refinements could make your answers even stronger."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 4.4,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.0,
+          "overall_score": 9.5,
+          "word_count": 226,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Clear and well-structured communication"
+          ],
+          "improvement_areas": [
+            "Continue with this excellent approach"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Clear and well-structured communication, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Continue with this excellent approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 8.5,
+          "clarity_score": 5.0,
+          "technical_accuracy": 6.1,
+          "overall_score": 10.0,
+          "word_count": 321,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Consider being more concise"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Consider being more concise."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 8.5,
+          "clarity_score": 5.0,
+          "technical_accuracy": 6.1,
+          "overall_score": 10.0,
+          "word_count": 321,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response directly addresses the question",
+            "Provides specific examples and details"
+          ],
+          "improvement_areas": [
+            "Consider being more concise"
+          ],
+          "feedback": "Excellent response! Strengths include: Good use of relevant terminology, Response directly addresses the question, Provides specific examples and details, Comprehensive and detailed answer, Confident and professional tone. Areas to work on: Consider being more concise."
+        }
+      ],
+      "start_time": "2025-11-29T14:12:07.166135",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 8.8,
+        "detailed_feedback": "Outstanding performance! You demonstrated excellent communication skills and strong relevant knowledge.",
+        "areas_for_improvement": [
+          "Continue with this excellent approach",
+          "Provide more detailed explanations",
+          "Consider being more concise"
+        ],
+        "strength_analysis": [
+          "Good use of relevant terminology",
+          "Response directly addresses the question",
+          "Provides specific examples and details"
+        ],
+        "category_breakdown": {
+          "relevance": 8.3,
+          "completeness": 6.4,
+          "clarity": 5.5,
+          "technical_accuracy": 0.0
+        }
+      }
+    },
+    {
+      "interview_id": "default_user_20251129_141938",
+      "category": "sales",
+      "user_id": "default_user",
+      "current_question": 8,
+      "questions": [
+        "How do you identify and qualify new leads?",
+        "How do you tailor your approach for different customers?",
+        "How do you stay informed about industry trends?",
+        "What key metrics do you track for sales performance?",
+        "How do you handle rejection and maintain motivation?",
+        "How do you approach building relationships with new clients?",
+        "What strategies do you use to handle customer objections?",
+        "Describe a time you lost a major deal and what you learned."
+      ],
+      "responses": [
+        "My process for identifying and qualifying new leads is a structured, two-phase approach that focuses on volume generation followed by fit assessment.\n\n1. \ud83d\udd0d Lead Identification Strategies\nI use a mix of inbound and outbound methods to generate a robust list of potential leads.\n\nInbound Marketing: This involves creating valuable content (e-books, webinars, blog posts) that attracts prospects who are actively searching for solutions. Leads are captured through form fills and are scored based on engagement.\n\nTargeted Outbound Prospecting: I define an Ideal Customer Profile (ICP) based on firmographics (industry, size, revenue) and technographics (tech stack). I then use tools like LinkedIn Sales Navigator, industry directories, and company websites to systematically build lists of contacts who fit the ICP.\n\nReferrals and Partnerships: I actively cultivate relationships with existing clients and strategic partners, as these leads often have the highest conversion rates due to built-in trust and mutual benefit.\n\n2. \u2705 Lead Qualification Frameworks\nOnce a lead is identified, I use a framework to quickly and accurately assess its quality and likelihood of closing. I primarily rely on BANT and a modern variation, MEDDIC.\n\nA. BANT (Budget, Authority, Need, Timeline)\nThis traditional framework is excellent for a rapid, initial screening:\n\nBudget: Do they have the necessary funds allocated, or a clear path to getting them?\n\nAuthority: Is the contact the decision-maker, or can they champion the solution to the final authority?\n\nNeed: Do they have a compelling business problem that our solution can solve?\n\nTimeline: When do they need to implement a solution? (Urgency is key.)\n\nB. MEDDIC (Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion)\nFor complex, high-value B2B sales, I use MEDDIC to ensure a complete understanding of the client's internal environment:\n\nMetrics: What is the quantifiable Return on Investment (ROI) we will deliver (e.g., \"reduce costs by 15%\")?\n\nEconomic Buyer: Who has the final signature authority and controls the budget?\n\nDecision Criteria: What are the technical and business requirements they will use to evaluate vendors?\n\nDecision Process: What are the steps, stakeholders, and timeline for their official approval process?\n\nIdentify Pain: What is the critical, negative impact of their current problem? (The cost of inaction.)\n\nChampion: Who inside the organization is actively selling for us when we are not there?\n\nBy applying these frameworks, I ensure that sales efforts are focused only on high-probability leads that represent a genuine business opportunity, improving efficiency and reducing wasted time.",
+        "I tailor my approach for different customers by first conducting deep research to understand their specific context and priorities, then adapting my messaging, solution, and communication style accordingly.\n\n1. \ud83d\udd2c Research and Contextual Understanding\nBefore any interaction, I identify the following variables:\n\nIndustry/Sector: This dictates the relevant compliance issues, industry jargon, and key market drivers (e.g., healthcare needs security; retail needs speed).\n\nCompany Size & Structure: A large enterprise requires complex stakeholder mapping and a focus on ROI and integration, while a small business needs a quick, cost-effective solution and immediate value.\n\nThe Buyer's Role (Persona): I adapt my pitch to the specific person:\n\nTechnical Buyer: Focus on specs, integration, performance, and architecture.\n\nEconomic Buyer (C-level): Focus on financial impact, risk mitigation, and strategic alignment with business goals.\n\nUser/Champion: Focus on ease of use, daily efficiency, and practical benefits.\n\n2. \ud83d\udde3\ufe0f Tailored Messaging and Solution Design\nBased on the research, I customize the interaction:\n\nCustomized Value Proposition: I never use a generic pitch. I articulate the solution's value only in terms of their specific, quantifiable pain points (e.g., \"This feature will solve your $50k annual penalty for non-compliance\").\n\nCase Studies and Proof Points: I only present social proof (testimonials, case studies) from companies in their exact industry or with a similar size/challenge.\n\nPrioritized Features: I highlight only the two or three features that directly address their primary business need, avoiding feature overload.\n\n3. \ud83c\udfaf Communication Style Adjustment\nFinally, I adjust the interaction style to match the customer's pace and preference.\n\nPace: For fast-paced, direct clients, I focus on bullet points and immediate conclusions. For methodical clients, I provide detailed data, documentation, and step-by-step rationales.\n\nMedium: I respect their preferred communication channel (e.g., email, quick call, in-person meeting) and respond accordingly.\n\nThis tailored approach ensures that every interaction feels relevant, valuable, and directly aligned with the customer's unique situation, maximizing engagement and trust.",
+        "My approach to staying informed about industry trends is a dedicated, three-tiered system that blends high-level analysis with real-time digital monitoring.\n\nMacro-Level Analysis (Analyst Reports & Events): I regularly consume content from authoritative sources like Gartner/Forrester reports, trade journals, and financial news (e.g., Bloomberg, Forbes). I also attend key industry conferences and webinars to gain perspective from thought leaders and understand long-term strategic shifts.\n\nDigital Monitoring (Alerts & Tools): I use tools like Google Alerts and specialized social listening platforms to track specific keywords, emerging technologies, and competitor names in real-time. This ensures I catch breaking news, product launches, and shifting customer sentiment immediately.\n\nActive Networking & VOC: I participate in professional industry groups (on LinkedIn and specific forums) and conduct frequent Voice of the Customer (VOC) interviews with current and prospective clients. This provides invaluable, practical insight into the real-world impact of trends and technologies.",
+        "I track a balanced set of metrics across three categories to measure sales performance, ensuring I evaluate both efficiency and effectiveness.\n\n1. \u2699\ufe0f Efficiency and Activity Metrics\nThese measure the effort and volume required to drive results.\n\nMetric: Number of Qualified Meetings/Demos Held:\n\nWhy: This is a leading indicator. It directly measures the team's ability to engage prospects and fill the top of the funnel.\n\nMetric: Average Lead Response Time:\n\nWhy: Speed is critical in sales; a faster response time correlates directly with higher conversion rates.\n\n2. \ud83d\udcc8 Pipeline Health Metrics\nThese measure the quality and velocity of deals moving through the funnel.\n\nMetric: Conversion Rate (Stage-to-Stage):\n\nWhy: This pinpoints where deals are stalling, helping diagnose issues with qualification, messaging, or pricing at specific stages.\n\nMetric: Sales Cycle Length:\n\nWhy: A shorter cycle increases forecast predictability and allows for higher volume; tracking it helps identify bottlenecks that slow down the process.\n\n3. \ud83d\udcb0 Results and Revenue Metrics\nThese are the ultimate lagging indicators of success.\n\nMetric: Average Deal Size (or Annual Contract Value - ACV):\n\nWhy: Measures the value generated per closed deal and helps assess success in upselling/cross-selling or targeting high-value accounts.\n\nMetric: Customer Lifetime Value (CLV) / Customer Acquisition Cost (CAC) Ratio:\n\nWhy: This is the most holistic profitability metric, ensuring that sales efforts are cost-effective and focus on acquiring truly valuable, long-term clients",
+        "I handle rejection and maintain motivation through a structured approach focused on analysis, perspective, and immediate action.\n\n1. \ud83e\udde0 Handling Rejection (The 3 A's)\nWhen facing rejection, I immediately apply a three-step internal process to prevent demotivation:\n\nAnalyze (Not Agonize): I treat every rejection as data, not a personal failure. I seek specific, honest feedback immediately: Was it pricing? A feature gap? Timing? This shifts the focus from emotion to objective performance improvement.\n\nIsolate and Acknowledge: I allow myself a short, defined period (e.g., 5 minutes) to acknowledge the disappointment, but then I mentally isolate that specific event and prevent it from poisoning the entire outlook or pipeline.\n\nAdjust and Adapt: Based on the analysis, I immediately update my script, strategy, or targeting. Rejection is viewed as an opportunity to refine the approach for the next prospect.\n\n2. \u26a1 Maintaining Motivation\nMy motivation is sustained by focusing on leading indicators and long-term goals.\n\nFocus on Controllables (Activity Metrics): I maintain motivation by shifting my focus away from the outcome (closing the deal) to the inputs I can control (calls made, meetings booked, follow-ups sent). Meeting activity goals ensures a healthy pipeline, regardless of immediate results.\n\nVisualize the Success Pipeline: I maintain a clear, updated view of my entire pipeline, reminding myself that a \"No\" today clears the way for a potential \"Yes\" from a high-quality opportunity that is currently in an earlier stage.\n\nCelebrate Small Wins: I recognize and celebrate smaller, but crucial, steps\u2014such as successfully advancing a deal to the next stage, getting a referral, or receiving positive product feedback\u2014to maintain momentum and a positive mindset.\n\nConnect to the \"Why\": I regularly remind myself of the larger goal, whether it\u2019s hitting a specific target or enabling a client's business success, which provides the necessary perspective to power through temporary setbacks.",
+        "My approach to building relationships with new clients is a three-phase, value-driven process focused on establishing trust and partnership from the very first interaction.\n\n1. \ud83d\udc42 Discovery and Empathetic Listening (The Foundation)\nThe goal here is to become a student of their business, not a vendor.\n\nDeep Research: Before the first call, I research their industry, company news, and personal LinkedIn profile to find common ground and understand their strategic context.\n\nActive Listening: The first meeting is dedicated to asking insightful, open-ended questions about their challenges, priorities, and goals. I listen to understand their \"why\" and the personal impact of their business problems.\n\nValidate Pain Points: I rephrase and confirm their pain points to demonstrate empathy and show that I genuinely grasp their specific situation, building immediate rapport.\n\n2. \ud83d\udca1 Demonstrating Tailored Value (The Credibility Builder)\nOnce I understand their needs, I shift from listening to providing targeted value.\n\nCustomized Insight: I present a single, relevant insight or piece of data about their industry or a competitor's approach that is immediately useful to them, even if they don't buy my solution.\n\nTargeted Solution Mapping: I only highlight the features or services that directly address the pain points we just discussed, clearly articulating the financial or operational return on investment (ROI). I avoid generic feature lists.\n\nInternal Alignment: I introduce the client to the internal teams (e.g., product, support) they will be working with, demonstrating that they are gaining a full support system, not just a product.\n\n3. \ud83e\udd1d Follow-Up and Consistent Nurturing (The Long-Term View)\nRelationship building continues long after the contract is signed or the initial pitch is delivered.\n\nReliable Follow-Through: I strictly adhere to all commitments and deadlines. Reliability is the cornerstone of professional trust.\n\nNon-Sales Value: I send occasional non-sales-related content\u2014an article about their industry, an invitation to a relevant webinar, or a notification about a helpful new feature\u2014to maintain engagement and position myself as a long-term resource.\n\nFeedback Loops: I solicit honest feedback on my process, showing that I value their perspective and am committed to improving the partnership experience.",
+        "My strategy for handling customer objections centers around a 4-step, empathy-driven process designed to uncover the root cause and pivot back to value.\n\n1. \ud83d\udc42 Listen and Acknowledge (Build Trust)\nThe first step is crucial:\n\nI practice active listening without interruption to fully understand the objection.\n\nI validate their concern with empathy (e.g., \"I appreciate you bringing that up,\" or \"I understand why pricing is a major consideration right now\"). This disarms the client and builds trust.\n\n2. \u2753 Uncover the Root Cause (Diagnose the Barrier)\nMost surface-level objections (like \"price\") hide a deeper fear or misunderstanding.\n\nI ask open-ended, probing questions to get beneath the stated objection. For example, for a price objection, I might ask: \"Setting the price aside for a moment, does this solution align with your team's strategic goals?\" or \"What specifically makes you feel this investment is too high?\"\n\nThis step isolates the true issue, which is often risk, perceived lack of fit, or budget allocation, not the cost itself.\n\n3. \ud83d\udca1 Respond with Value and Proof (Overcome the Obstacle)\nOnce the root cause is known, I address it directly.\n\nI re-articulate the value of the solution in terms of the client's specific business metrics and pain points identified in the discovery phase.\n\nI use social proof (case studies, data, or testimonials) from similar companies to mitigate their specific risk or concern and demonstrate a clear Return on Investment (ROI).\n\n4. \u2705 Confirm and Isolate (Move Forward)\nThe final step ensures the objection has been resolved and prepares to move the deal forward.\n\nI confirm that my response has satisfied their concern: \"Does that explanation address your concern about the implementation timeline?\"\n\nI then use an isolation question to ensure no other barriers exist: \"If we can successfully address this point, are you ready to discuss the next steps?\"",
+        "I once lost a major six-figure deal to a competitor primarily because I failed to adequately identify and address a crucial internal champion on the client's side early in the process.\n\nThe prospect, a large manufacturing firm, had an enthusiastic technical buyer who served as my primary point of contact and championed our solution. I focused heavily on providing him with detailed technical specifications and ROI data. However, late in the decision process, we were informed that the deal was going to a competitor.\n\n\ud83d\udcdd What I Learned\nThe post-mortem revealed two critical errors:\n\nFailure to Map Stakeholders (The \"Champion\" Gap): I relied too heavily on my single contact and neglected to identify the Director of IT Operations, who held significant influence over the final technology choice. The competitor had engaged this director early, focusing their pitch entirely on implementation risk and ease of migration, which was his primary concern, while I had only focused on performance and features.\n\nMistaking Enthusiasm for Authority: I incorrectly assumed the technical buyer's enthusiasm translated into full decision-making authority. I should have pressed harder to understand the complete decision process and criteria (MEDDIC), recognizing that different stakeholders care about different things (e.g., the IT Director cared more about minimizing disruption than maximizing features).\n\nThe key lesson was clear: Never leave the economic buyer or critical influencers as unknowns. From that point forward, I implemented a mandatory rule to always confirm the Decision Criteria and Decision Process (the two D's in MEDDIC) in the earliest stages and ensure my pitch is tailored to address the unique priorities of every key stakeholder in the organization."
+      ],
+      "scores": [
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 9.4,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.9,
+          "overall_score": 10.0,
+          "word_count": 401,
+          "sentiment_compound": 1.0,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 6.6,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.5,
+          "overall_score": 9.2,
+          "word_count": 312,
+          "sentiment_compound": 0.98,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 8.7,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.2,
+          "overall_score": 10.0,
+          "word_count": 146,
+          "sentiment_compound": 0.92,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 8.1,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.4,
+          "overall_score": 9.9,
+          "word_count": 226,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 9.4,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.5,
+          "overall_score": 10.0,
+          "word_count": 301,
+          "sentiment_compound": 1.0,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 7.9,
+          "clarity_score": 7.0,
+          "technical_accuracy": 7.6,
+          "overall_score": 9.5,
+          "word_count": 344,
+          "sentiment_compound": 0.99,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 10.0,
+          "clarity_score": 7.0,
+          "technical_accuracy": 8.7,
+          "overall_score": 10.0,
+          "word_count": 304,
+          "sentiment_compound": 0.96,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Clear and well-structured answer"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Clear and well-structured answer, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        },
+        {
+          "relevance_score": 10.0,
+          "completeness_score": 10.0,
+          "clarity_score": 5.0,
+          "technical_accuracy": 6.0,
+          "overall_score": 9.1,
+          "word_count": 269,
+          "sentiment_compound": 0.95,
+          "strengths": [
+            "Good use of relevant terminology",
+            "Response addresses the question well",
+            "Includes specific details and examples"
+          ],
+          "improvement_areas": [
+            "Continue with this approach"
+          ],
+          "feedback": "Excellent response! Strengths: Good use of relevant terminology, Response addresses the question well, Includes specific details and examples, Comprehensive response, Confident and professional tone. Areas to work on: Continue with this approach."
+        }
+      ],
+      "start_time": "2025-11-29T14:19:38.378315",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 9.7,
+        "detailed_feedback": "Outstanding performance! You demonstrated excellent skills and knowledge.",
+        "areas_for_improvement": [
+          "Continue with this approach"
+        ],
+        "strength_analysis": [
+          "Good use of relevant terminology",
+          "Response addresses the question well",
+          "Clear and well-structured answer"
+        ],
+        "category_breakdown": {
+          "relevance": 10.0,
+          "completeness": 8.8,
+          "clarity": 6.8,
+          "technical_accuracy": 7.8
+        }
+      }
+    },
+    {
+      "interview_id": "streamlit_user_20251129_222644",
+      "category": "technical",
+      "user_id": "streamlit_user",
+      "current_question": 8,
+      "questions": [
+        "What experience do you have with version control systems?",
+        "How do you ensure code quality and maintainability?",
+        "Describe your experience with cloud platforms and services.",
+        "Describe your experience with database design.",
+        "Explain the concept of object-oriented programming and its main principles.",
+        "Describe your experience with RESTful APIs.",
+        "What's your experience with agile methodologies?",
+        "What metrics do you track for application performance?"
+      ],
+      "responses": [
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)"
+      ],
+      "scores": [
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        }
+      ],
+      "start_time": "2025-11-29T22:26:44.684281",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 1.5,
+        "detailed_feedback": "Needs improvement. Practice providing detailed, structured responses with specific examples.",
+        "areas_for_improvement": [
+          "Provide an actual answer to the question",
+          "Share any relevant experience or knowledge",
+          "Even partial answers are better than no answer"
+        ],
+        "strength_analysis": [
+          "Honest about limitations"
+        ],
+        "category_breakdown": {
+          "relevance": 1.0,
+          "completeness": 1.0,
+          "clarity": 2.0,
+          "technical_accuracy": 1.0
+        }
+      },
+      "end_time": "2025-11-29T22:27:57.596283"
+    },
+    {
+      "interview_id": "streamlit_user_20251129_223143",
+      "category": "behavioral",
+      "user_id": "streamlit_user",
+      "current_question": 8,
+      "questions": [
+        "Describe a situation where you had to work with a difficult team member.",
+        "How do you prioritize tasks with multiple tight deadlines?",
+        "How do you handle stress and pressure?",
+        "Tell me about your biggest professional achievement.",
+        "Tell me about a time you faced a significant challenge and how you overcame it.",
+        "Describe a situation where you persuaded others to adopt your idea.",
+        "How do you approach continuous learning?",
+        "How do you handle disagreements with your manager?"
+      ],
+      "responses": [
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)"
+      ],
+      "scores": [
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        }
+      ],
+      "start_time": "2025-11-29T22:31:43.834703",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 1.5,
+        "detailed_feedback": "Needs improvement. Practice providing detailed, structured responses with specific examples.",
+        "areas_for_improvement": [
+          "Provide an actual answer to the question",
+          "Share any relevant experience or knowledge",
+          "Even partial answers are better than no answer"
+        ],
+        "strength_analysis": [
+          "Honest about limitations"
+        ],
+        "category_breakdown": {
+          "relevance": 1.0,
+          "completeness": 1.0,
+          "clarity": 2.0,
+          "technical_accuracy": 1.0
+        }
+      },
+      "end_time": "2025-11-29T22:31:59.274713"
+    },
+    {
+      "interview_id": "streamlit_user_20251129_223312",
+      "category": "technical",
+      "user_id": "streamlit_user",
+      "current_question": 8,
+      "questions": [
+        "What experience do you have with version control systems?",
+        "What's your approach to learning new technologies?",
+        "What's your experience with containerization?",
+        "Describe your experience with cloud platforms and services.",
+        "How do you handle technical debt?",
+        "What security best practices do you follow?",
+        "What's your experience with agile methodologies?",
+        "Describe your experience with RESTful APIs."
+      ],
+      "responses": [
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)"
+      ],
+      "scores": [
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        }
+      ],
+      "start_time": "2025-11-29T22:33:12.493092",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 1.5,
+        "detailed_feedback": "Needs improvement. Practice providing detailed, structured responses with specific examples.",
+        "areas_for_improvement": [
+          "Provide an actual answer to the question",
+          "Share any relevant experience or knowledge",
+          "Even partial answers are better than no answer"
+        ],
+        "strength_analysis": [
+          "Honest about limitations"
+        ],
+        "category_breakdown": {
+          "relevance": 1.0,
+          "completeness": 1.0,
+          "clarity": 2.0,
+          "technical_accuracy": 1.0
+        }
+      },
+      "end_time": "2025-11-29T22:34:12.364968"
+    },
+    {
+      "interview_id": "streamlit_user_20251129_224107",
+      "category": "technical",
+      "user_id": "streamlit_user",
+      "current_question": 8,
+      "questions": [
+        "Describe a challenging technical problem you solved.",
+        "How do you handle technical debt?",
+        "What experience do you have with version control systems?",
+        "What's your experience with containerization?",
+        "What are the main differences between SQL and NoSQL databases?",
+        "Describe your experience with database design.",
+        "Describe your experience with cloud platforms and services.",
+        "How do you handle software testing and quality assurance?"
+      ],
+      "responses": [
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)",
+        "(Skipped)"
+      ],
+      "scores": [
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        },
+        {
+          "relevance_score": 1.0,
+          "completeness_score": 1.0,
+          "clarity_score": 2.0,
+          "technical_accuracy": 1.0,
+          "overall_score": 1.5,
+          "word_count": 0,
+          "sentiment_compound": 0.0,
+          "strengths": [
+            "Honest about limitations"
+          ],
+          "improvement_areas": [
+            "Provide an actual answer to the question",
+            "Share any relevant experience or knowledge",
+            "Even partial answers are better than no answer"
+          ],
+          "feedback": "You indicated you don't know the answer. Try to provide at least a partial response or share related experience."
+        }
+      ],
+      "start_time": "2025-11-29T22:41:07.776770",
+      "status": "completed",
+      "final_result": {
+        "overall_score": 1.5,
+        "detailed_feedback": "Needs improvement. Practice providing detailed, structured responses with specific examples.",
+        "areas_for_improvement": [
+          "Provide an actual answer to the question",
+          "Share any relevant experience or knowledge",
+          "Even partial answers are better than no answer"
+        ],
+        "strength_analysis": [
+          "Honest about limitations"
+        ],
+        "category_breakdown": {
+          "relevance": 1.0,
+          "completeness": 1.0,
+          "clarity": 2.0,
+          "technical_accuracy": 1.0
+        }
+      },
+      "end_time": "2025-11-29T22:41:15.529358"
+    }
+  ]
+}
