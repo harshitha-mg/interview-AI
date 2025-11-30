@@ -25,7 +25,7 @@ except ImportError:
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "http://0.0.0.0:8000"
 
 # ------------------ Page Config ------------------
 st.set_page_config(
