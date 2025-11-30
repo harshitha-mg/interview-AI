@@ -7,12 +7,11 @@ import io
 import wave
 from datetime import datetime
 
-# Audio recording deps
 try:
     import sounddevice as sd
     import soundfile as sf
     AUDIO_OK = True
-except ImportError:
+except Exception as e:   # instead of ImportError
     AUDIO_OK = False
 
 # TTS deps
@@ -26,7 +25,7 @@ except ImportError:
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 
-BACKEND_URL = "http://0.0.0.0:8000" 
+BACKEND_URL = "http://localhost:8000"
 
 # ------------------ Page Config ------------------
 st.set_page_config(
@@ -58,7 +57,7 @@ st.markdown(
 
 /* Question */
 .question-box {
-    background: linear-gradient(135deg, #4c6fff 0%, #9f7aea 100%);
+    background: linear-gradient(135deg, #4c6fff 50%, #9f7aea 100%);
     padding: 20px;
     border-radius: 14px;
     color: #fff;
@@ -78,14 +77,14 @@ st.markdown(
 
 /* Strengths & improvements */
 .strength-item {
-    background: #e6ffed;
+    background: #8DB600;
     padding: 8px 10px;
     border-radius: 6px;
     margin-bottom: 6px;
     border-left: 3px solid #22c55e;
 }
 .improve-item {
-    background: #fff7e6;
+    background: #F88379;
     padding: 8px 10px;
     border-radius: 6px;
     margin-bottom: 6px;
@@ -110,7 +109,7 @@ st.markdown(
 
 /* Progress badge */
 .progress-badge {
-    background: #f3f4ff;
+    background: #800080;
     border-radius: 999px;
     padding: 6px 12px;
     display: inline-block;
@@ -120,19 +119,19 @@ st.markdown(
 
 /* Sidebar question status */
 .sidebar-q {
-    background: #f8fafc;
+    background: #DDA0DD;
     padding: 6px 9px;
     border-radius: 8px;
     margin-bottom: 4px;
     font-size: 0.9rem;
 }
 .sidebar-q.current {
-    background: #e0f2fe;
+    background: #0054b4;
     border-left: 3px solid #0ea5e9;
     font-weight: 600;
 }
 .sidebar-q.done {
-    background: #dcfce7;
+    background: #4b0082;
     border-left: 3px solid #22c55e;
 }
 
@@ -627,15 +626,7 @@ if TTS_OK and st.session_state.question != st.session_state.last_tts_question:
         autoplay_audio(audio)
     st.session_state.last_tts_question = st.session_state.question
 
-# Manual replay (if needed)
-col_tts, _ = st.columns([1, 3])
-with col_tts:
-    if TTS_OK and st.button("🔊 Replay Question"):
-        audio = tts_generate(st.session_state.question)
-        if audio:
-            st.audio(audio, format="audio/mp3")
 
-st.markdown("---")
 
 if "answer" not in st.session_state:
     st.session_state.answer = ""
@@ -691,7 +682,7 @@ if AUDIO_OK:
         else:
             st.caption("Use recording to dictate your answer, then edit the text above if needed.")
 else:
-    st.warning("Voice recording not available. Install: `pip install sounddevice soundfile numpy`")
+    st.warning("Voice recording not available. Install: `pip install sounddevice soundfile numpy`,🎤 Voice recording is only available when running locally.")
 
 st.markdown("---")
 
