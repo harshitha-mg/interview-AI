@@ -22,7 +22,12 @@ app.add_middleware(
 
 # Initialize core components
 interview_agent = FreeInterviewAgent()
-speech_processor = SpeechProcessor()
+try:
+    speech_processor = SpeechProcessor()
+    print("✅ SpeechProcessor initialized successfully")
+except Exception as e:
+    print(f"⚠️ SpeechProcessor init failed: {e}")
+    speech_processor = None
 
 # In‑memory interview sessions
 active_interviews: Dict[str, Dict] = {}
