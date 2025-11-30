@@ -1,27 +1,17 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
+# requirements.txt — COPY-PASTE EXACTLY THIS
 streamlit>=1.30
-
-# THIS IS THE ONLY TORCH VERSION THAT WORKS ON RENDER RIGHT NOW
-torch==2.4.1 --index-url https://download.pytorch.org/whl/cpu
-torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cpu
-
-# Faster-Whisper works perfectly with torch 2.4.1
-faster-whisper==1.0.3
-
-# Audio recording
+fastapi
+uvicorn[standard]
+faster-whisper
+# DO NOT pin torch — let faster-whisper install its compatible version
 sounddevice
 soundfile
 numpy
-
-# TTS & PDF
 gtts
 reportlab
-
-# Rest of your app
-sentence-transformers==2.2.2
-transformers==4.35.0
-nltk==3.8.1
 python-multipart
 requests
+sentence-transformers
+transformers
+nltk
 pydantic
