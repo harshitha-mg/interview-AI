@@ -9,7 +9,7 @@ class SpeechProcessor:
         print("Loading Faster-Whisper model...")
         try:
             # Use faster-whisper (more memory efficient)
-            self.model = WhisperModel("small", device="cpu", compute_type="int8" # or "small" if you want a bit better quality
+            self.model = WhisperModel("tiny", device="cpu", compute_type="int8") # or "small" if you want a bit better quality
             print("Faster-Whisper model loaded successfully!")
         except Exception as e:
             print(f"Error loading Whisper model: {e}")
