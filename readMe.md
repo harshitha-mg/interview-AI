@@ -8,7 +8,7 @@ An AI-powered interview practice agent that conducts structured interviews, anal
 
 This project is a full-stack AI interview practice system:
 
-- **Frontend**: A modern web UI (HTML/CSS/JS) where users:
+- **Frontend**: A modern web UI (Streamlit) where users:
   - Choose an interview category
   - Answer 8 questions per session (typed or via speech)
   - See real-time progress and detailed feedback
@@ -131,43 +131,44 @@ The scoring logic is intentionally **supportive and lenient** for reasonable ans
   - `FirebaseManager` (if configured), or
   - Local JSON file (`interview_data.json`) as a simple storage layer
 
-### Frontend
+**Frontend (Streamlit UI)**
+- Built entirely with **Streamlit** (`streamlit_app.py`)
+- Modern, card-based layout with:
+  - **Category selection screen**
+    - Sidebar selectbox for interview category
+    - “Start Interview” button
+  - **Interview Q&A screen**
+    - Question displayed in a styled “card”
+    - Progress badge and `st.progress` bar
+    - `st.text_area` for user answers
+    - Optional voice recording controls (local dev)
+    - Per-question feedback section showing:
+      - Overall score
+      - Relevance, completeness, clarity, etc.
+      - Strengths and areas for improvement
+  - **Results screen (separate page)**
+    - Only shown after all questions are answered
+    - Final overall score with color-coded display
+    - Breakdown cards for relevance/completeness/clarity/technical
+    - Bullet lists for strengths and improvement areas
+    - “Download PDF Report” button
+    - “Start New Interview” button
 
-- **UI**
-  - Pure HTML + CSS
-  - Modern, card-based design with:
-    - Category selection screen
-    - Interview Q&A screen with progress bar
-    - Results screen with score circles and breakdown cards
-
-- **JavaScript**
-  - `fetch` for HTTP calls:
-    - `GET /categories`
-    - `POST /start-interview?category=...`
-    - `POST /submit-response`
-    - Optional: `POST /speech-to-text` (if using backend STT)
-  - Browser Web Speech API:
-    - `window.SpeechRecognition` / `window.webkitSpeechRecognition`
-    - Used for voice transcription directly into the response textarea
-  - `speechSynthesis`:
-    - Reads questions and final feedback aloud
-
-### Internal REST APIs
-
-- `GET /categories`
-  - Returns list of category metadata for the frontend.
-- `POST /start-interview?category=...&user_id=...`
-  - Creates a new interview session.
-  - Generates 8 questions via `FreeInterviewAgent.generate_questions`.
-  - Returns `interview_id`, first question, and session metadata.
-- `POST /submit-response`
-  - Form fields: `interview_id`, `response_text`
-  - Appends response to the session, calls `analyze_response`, and:
-    - If not finished: returns next question + analysis
-    - If finished: returns final score + aggregated feedback
-- `POST /speech-to-text` (optional)
-  - JSON: `{ audio_data: "<base64 string>" }`
-  - Uses `SpeechProcessor.speech_to_text` to return `{ text, success }`.
+**Frontend → Backend Communication (Python requests, not JS)**
+- Uses Python `requests` inside Streamlit (no JavaScript `fetch`):
+  - `GET /health`  
+    - To show “Backend: Online / Offline” in the sidebar
+  - `GET /categories`  
+    - To populate the category dropdown
+  - `POST /start-interview` (form data: `category`, `user_id`)  
+    - To create a new interview session and fetch the first question
+  - `POST /submit-response` (form data: `interview_id`, `response_text`)  
+    - To analyze the current answer and either:
+      - Return next question + per-answer analysis, or
+      - Return final scores + feedback when interview is complete
+  - `POST /speech-to-text` (JSON: `audio_data` as base64 WAV)  
+    - To send recorded audio to the FastAPI backend
+    - Backend uses `SpeechProcessor` (Faster-Whisper) to transcribe speech to text
 
 ---
 
@@ -185,7 +186,7 @@ cd interview-agent
 # - interview_agent_free.py
 # - database.py
 # - speech_processor.py
-# - interview_agent.html
+# - streamlit_app.py
 # - requirements.txt
 
 2. Create and Activate Virtual Environment
@@ -214,22 +215,22 @@ These lines are already present; on first run, they will download required data.
 
 5. Run the Backend
 
-    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    python main.py
 
     You should see:
         Uvicorn running on http://0.0.0.0:8000
 
 6. Serve the Frontend
     In another terminal (still in the project directory):
-        # Simple static server
-        python -m http.server 3000  
+        
+        streamlit run streamlit_app.py 
 
     Now open in browser:
-        http://localhost:3000/interview_agent.html
+       (http://localhost:8501)
 
 7. Using the App
 
-    Open http://localhost:3000/interview_agent.html
+    Open (http://localhost:8501)
     Choose a category (e.g., “Technical Interview”)
     Answer each of the 8 questions:
     Type your answer, or
